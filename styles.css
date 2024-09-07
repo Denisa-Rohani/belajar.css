@@ -1,0 +1,52 @@
+.first-div{
+   background-color:red; 
+}
+.second-div{
+    background-color: green;
+}
+.external{
+    background-color: aqua;
+}
+.box-1{
+    background-color: green;
+    height: 150px; ;
+    width: 150px; ;
+}
+.box-2{
+    background-color: blue;
+    height: 200px; ;
+    width: 200px; ;
+}
+.box-3{
+    background-color: red;
+    height: 300px; ;
+    width: 300px; ;
+}
+.nav{
+    background-color: yellow ;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+.menu1{
+    background-color: blue;
+}
+.menu2{
+    background-color:green;
+}
+.menu3{
+    background-color:gray;
+}
+a{
+    text-decoration:none ;
+    color: black;
+}
+#content1{
+    margin-top: 1000px;
+}
+#content2{
+    margin-top: 1000px;
+}
+#content3{
+    margin-top: 1000px;
+}
